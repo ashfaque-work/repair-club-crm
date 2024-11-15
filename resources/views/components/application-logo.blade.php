@@ -1,0 +1,1 @@
+<img src="https://flowbite.com/docs/images/logo.svg" alt="FlowBite Logo" />
